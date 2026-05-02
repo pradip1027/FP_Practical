@@ -1,0 +1,2 @@
+Hello Everyone, this is a sample text file used as a sample for file handling 
+            in python programming using text extension

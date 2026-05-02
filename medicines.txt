@@ -1,0 +1,4 @@
+101,Painkiller,10.0,23,pain
+1001,Vicks,20.0,1/7/2026,vicks
+1051,Burnol,20.0,5/5/2026,burnolplus
+1003,dettol,140.0,20/2/2026,dettol

@@ -1,0 +1,6 @@
+from calc import addd as sum
+
+a = 10
+b = 20
+c = sum(a, b)
+print(c)
